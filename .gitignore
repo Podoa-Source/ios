@@ -1,0 +1,6 @@
+# Built application files
+*.app
+*.ipa
+
+# Mac Thumbnails File
+.DS_Store
